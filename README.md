@@ -17,7 +17,7 @@
 1. Prepare the environment.
 ```
 # Clone the repo.
-git clone https://github.com/fudan-zvg/RealEngine.git
+git clone https://github.com/LogosIntelligenceLab/RealEngine.git
 cd RealEngine
 
 # Make a conda environment.
